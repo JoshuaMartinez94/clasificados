@@ -25,6 +25,9 @@ public class Area {
         this.nombreArea= nombreArea;
     }
     
+    
+    //Este codigo de NetBeans, Excelente.
+    
     public int getNumEdificio()
     {
        return numEdificio;
